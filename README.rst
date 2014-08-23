@@ -65,7 +65,7 @@ Usage
 Add image
 ---------
 You may now add images in your article. Click the "Add new" menu and select "Image" in the pull down menu.
-You get the standard plone form to add your image. 
+You get the standard plone form to add your image.
 
 Components
 ----------
@@ -76,9 +76,17 @@ The following packages provide components to display contained images:
     * `raptus.article.lightbox <http://pypi.python.org/pypi/raptus.article.lightbox>`_
     * `raptus.article.lightboxgallery <http://pypi.python.org/pypi/raptus.article.lightboxgallery>`_
     * `raptus.article.randomimage <http://pypi.python.org/pypi/raptus.article.randomimage>`_
+    * `raptus.article.imageslider <https://pypi.python.org/pypi/raptus.article.imageslider>`_
 
 Copyright and credits
 =====================
 
-raptus.article is copyrighted by `Raptus AG <http://raptus.com>`_ and licensed under the GPL. 
+raptus.article is copyrighted by `Raptus AG <http://raptus.com>`_ and licensed under the GPL.
 See LICENSE.txt for details.
+
+Contributors
+------------
+
+* Harald Friessnegger (fRiSi), `Webmeisterei GmbH <http://webmeisterei.com>`_
+
+  support for plone.app.imaging scales
