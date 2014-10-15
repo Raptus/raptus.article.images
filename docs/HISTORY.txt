@@ -2,8 +2,8 @@ Changelog
 =========
 
 
-(unreleased)
-------------
+2.0b5 (2014-10-15)
+------------------
 
 * Add properties ``images_*_scale`` to be able to use `plone.app.imaging`
   scales instead of the raptus.article image sizes.
